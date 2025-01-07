@@ -1,0 +1,39 @@
+{
+  "name": "block-development-examples-dataviews",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@wordpress/components": "^28.6.0",
+    "@wordpress/dataviews": "^4.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1",
+    "react-scripts": "5.0.1",
+    "remark": "^15.0.1",
+    "remark-gfm": "^4.0.0",
+    "remark-html": "^16.0.1"
+  },
+  "scripts": {
+    "start": "DISABLE_ESLINT_PLUGIN=true react-scripts start",
+    "build": "DISABLE_ESLINT_PLUGIN=true react-scripts build",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "https://wordpress.github.io/block-development-examples",
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "sass": "^1.77.8"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
