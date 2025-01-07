@@ -10,17 +10,16 @@ See [documentation](https://github.com/WordPress/gutenberg/tree/trunk/packages/d
 
 Besides providing developers a nicer way to navigate through the examples of this repo, this implementation may also be a good reference for:
 
--   Have a React App using Dataviews deployed to GH pages of any repo
--   Using Dataviews to help users navigate through the info of a specific repo
--   Connecting Dataviews to React Router to provide direct links to filters (or searches)
+- Have a React App using Dataviews deployed to GH pages of any repo
+- Using Dataviews to help users navigate through the info of a specific repo
+- Connecting Dataviews to React Router to provide direct links to filters (or searches)
 
 ## Demo
 
-From the `_app` folder
+From the root of the project
 
 ```sh
 npm install
-npm run admin:data:copy
 npm start
 ```
 
