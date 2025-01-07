@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dataviews-block-examples/static/css/main.0f622f60.css",
+    "main.js": "/dataviews-block-examples/static/js/main.93db1210.js",
+    "index.html": "/dataviews-block-examples/index.html",
+    "main.0f622f60.css.map": "/dataviews-block-examples/static/css/main.0f622f60.css.map",
+    "main.93db1210.js.map": "/dataviews-block-examples/static/js/main.93db1210.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f622f60.css",
+    "static/js/main.93db1210.js"
+  ]
+}
