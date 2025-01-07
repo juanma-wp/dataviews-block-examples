@@ -1,5 +1,8 @@
 # DataViews for block-development-examples
 
+> [!IMPORTANT]
+> This repo is just an initial experiment of using Dataviews in a React Project. Check https://github.com/WordPress/block-development-examples and https://wordpress.github.io/block-development-examples/ for an improved experience to browse the examples.
+
 ## What is it?
 
 This app aims to provide a nicer way to navigate through the examples at [block-development-examples](https://github.com/WordPress/block-development-examples) repo leveraring the `@wordpress/dataviews` [npm package](https://www.npmjs.com/package/@wordpress/dataviews).
